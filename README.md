@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# About
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Small little math game I'm making together with my children.
+
+## Try it
+https://mattebonan.web.app/
 
 ## Assets
 
